@@ -1,4 +1,4 @@
-![Banner do Projeto](https://github.com/lsilva17/projeto-2-gerador-de-senhas/raw/principal/imagem/banner_projeto2.png)
+
 
 # 🔐 Projeto 2 – Gerador de Senhas Seguras em Python
 
