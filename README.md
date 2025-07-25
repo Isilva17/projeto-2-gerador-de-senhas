@@ -1,38 +1,40 @@
-![Banner do Projeto](https://github.com/lsilva17/projeto-2-gerador-de-senhas/blob/principal/imagem/banner_projeto2.png?raw=true)
+![Banner do Projeto](https://github.com/lsilva17/projeto-2-gerador-de-senhas/raw/principal/imagem/banner_projeto2.png)
 
 # 🔐 Projeto 2 – Gerador de Senhas Seguras em Python
 
-## 🚀 Objetivo do Projeto
+## 🎯 Objetivo do Projeto
 
-Este projeto faz parte de um conjunto de ferramentas voltadas para:
+Este projeto foi criado com os seguintes propósitos:
 
-- 🧠 Estudos de **Python** e **Termux**
-- 🧰 Criação de um **portfólio funcional** no GitHub
-- 🧪 Demonstração de **habilidades técnicas** em desenvolvimento e automação
-
----
-
-## 🧾 Descrição
-
-Um gerador simples, rápido e eficaz de **senhas seguras**, executado diretamente no **Termux (Android/Linux)**.  
-Ideal para:
-
-- Desenvolvedores
-- Entusiastas de cibersegurança
-- Usuários que buscam **proteger suas contas** com senhas fortes e únicas
+- 🧠 Praticar **Python** no ambiente **Termux** (Android/Linux)
+- 🛠️ Construir um **portfólio técnico funcional** no GitHub
+- 💡 Demonstrar habilidades em **automação simples**, **lógica de programação** e **segurança da informação**
 
 ---
 
-## ⚙️ Tecnologias Utilizadas
+## 📄 Descrição
 
-- 🔸 Python 3
-- 🔸 Termux
-- 🔸 Bibliotecas: `random`, `string`
+Um gerador simples, rápido e eficaz de **senhas seguras**, executado diretamente no **Termux**. Ideal para:
+
+- Desenvolvedores que precisam de senhas temporárias ou únicas
+- Estudantes e entusiastas de cibersegurança
+- Qualquer usuário que deseje **proteger suas contas online**
+
+O script permite gerar senhas aleatórias com letras, números e símbolos, tudo com poucos comandos no terminal.
 
 ---
 
-## 📸 Exemplo de Uso
+## 🧪 Tecnologias Utilizadas
 
-```bash
-$ python gerador_senha.py
-Senha gerada: A$7k8fT!zLx#
+- 🐍 **Python 3**
+- 📱 **Termux (Linux para Android)**
+- 📚 **Bibliotecas**: `random`, `string`
+
+---
+
+## ⚙️ Como Executar
+
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/lsilva17/projeto-2-gerador-de-senhas
+   cd projeto-2-gerador-de-senhas
