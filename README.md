@@ -1,6 +1,6 @@
 # 🔐 Projeto 2 — Gerador de Senhas Seguras em Python
 
-![Banner do Projeto](banner_projeto2.png)
+![Banner do Projeto](img/banner_projeto2.png)
 
 > Um gerador simples, rápido e eficaz de senhas seguras, executado diretamente no **Termux (Android/Linux)**. Ideal para desenvolvedores, entusiastas de cibersegurança ou qualquer pessoa que precise proteger suas contas com senhas fortes e únicas.
 
